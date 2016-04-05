@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./locorumtheologi00mlgoog_0362.png"; bbox 0 0 1944 2442; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 354 124 1702 2316">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 354 124 1702 2316">
+     <span class='ocr_line' id='line_1_1' title="bbox 1408 124 1702 262; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 1408 124 1702 262; x_wconf 95' lang='lat' dir='ltr'><strong><em>  </em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 354 262 1702 2316; textangle 90"><span class='ocrx_word' id='word_1_2' title='bbox 354 262 1702 2316; x_wconf 95' lang='lat' dir='ltr'><strong><em>    </em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 429 219 1388 326">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 429 219 1364 311">
+     <span class='ocr_line' id='line_1_3' title="bbox 429 219 1203 250; textangle 90"><span class='ocrx_word' id='word_1_3' title='bbox 429 225 479 250; x_wconf 67' lang='grc' dir='ltr'>ξ</span> <span class='ocrx_word' id='word_1_4' title='bbox 914 219 1203 247; x_wconf 63' lang='lat'><strong><em>{9}</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 429 282 1388 326; textangle 90"><span class='ocrx_word' id='word_1_5' title='bbox 429 282 664 310; x_wconf 56' lang='grc' dir='ltr'><strong><em>ξιξ-,ξ</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 666 282 949 326; x_wconf 60' lang='lat'><strong><em>{⁶22</em></strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 958 282 1036 304; x_wconf 57' lang='grc' dir='ltr'><strong><em>οἱ.</em></strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1054 283 1167 311; x_wconf 52' lang='grc' dir='ltr'><strong><em>ὑῒΞ..</em></strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1170 282 1388 317; x_wconf 57' lang='grc' dir='ltr'><strong><em>ἓξ...-</em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
